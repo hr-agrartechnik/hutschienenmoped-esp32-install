@@ -4,7 +4,7 @@ ACHTUNG !! OHNE ISOBUS !!!
 
 das ist die Open-Source Version von https://gitlab.com/meisterschulen-am-ostbahnhof-munchen
 
-https://Meisterschulen-am-Ostbahnhof-Munchen.github.io/logibus-hutschienenmoped-esp32-install/
+https://hr-agrartechnik.github.io/hutschienenmoped-esp32-install/
 
 
 
